@@ -1,2 +1,2 @@
 # automating-aws-python
-Repo for Automating AWS
+Repo for AWS Automation using python!
